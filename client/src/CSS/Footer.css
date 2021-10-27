@@ -1,0 +1,27 @@
+.footer ul{
+    display: flex;
+    flex-direction: row;
+}
+.footer h4 {
+    font-size: 16pt;
+    text-align: center;
+
+}
+.footer ul{
+    list-style: none;
+    padding: 50px;
+    justify-content: space-between;
+}
+.footer h6{
+
+    text-align: right;
+}
+.trait
+{
+border-top: 1px solid #a5a58d;
+width : 1300px;
+}
+.footer{
+    background-color: #b7b7a4;
+    opacity: 0.5;
+}

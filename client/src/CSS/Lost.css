@@ -1,0 +1,67 @@
+.lost{
+    padding-top:100px ;
+    color: beige;
+}
+
+
+.add{
+    /* padding: 100px; */
+}
+.map{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 40px;
+        grid-row-gap: 30px;
+        padding: 70px;
+
+}
+.add {
+    padding-top: 150px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+.add h4{
+    font-size: 26pt;
+    font-family:'Poppins', sans-serif;
+    font-weight: bolder;
+    /* text-align: center; */
+}
+.add button{
+    font-size: 20px;
+}
+.map1 h2{
+    padding-left: 100px;
+    font-family: 'Poppins', sans-serif ;
+    font-weight: bolder;
+    font-size: 29pt;
+}
+/***********************LOST***********************/
+
+.lost{
+    padding: 100px;
+    color: black;
+    
+}
+.lost h1{
+    padding-left: 150px;
+    font-family: 'Poppins', sans-serif ;
+    font-weight: bolder;
+    font-size: 29pt;
+}
+.form{
+    padding: 20px;
+    margin-left: 400px;
+
+} 
+.form button{
+    padding: 15px;
+    font-size: 19px;
+}
+.form input, .form textarea{
+    padding: 9px;
+
+}
+.form textarea{
+    width: 190px;
+}

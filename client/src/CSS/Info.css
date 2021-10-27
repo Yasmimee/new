@@ -1,0 +1,37 @@
+.info-alz{
+    padding: 200px;
+    background: #ffe8d6
+}
+.info-alz h1{
+    font-size: 35pt;
+    padding-bottom: 50px;
+
+}
+.info-alz h5, p{
+    font-size: 12pt;
+}
+.info-alz h3{
+    padding-top: 30px;
+    font-size: 22pt;
+    text-align: center;
+}
+.stade{
+    padding: 100px;
+    /* padding-top: 40px; */
+    /* padding-right: 50px; */
+    margin-left: 20px;
+}
+.stade button {
+    margin: 30px;
+    padding: 20px;
+}
+.st-btn{
+    background:    #cb997e;
+border-radius: 27px;
+padding:       20px 45px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 29px/1 "Droid Serif", serif;
+text-align:    center;
+border: none;
+}

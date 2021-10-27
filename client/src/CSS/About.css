@@ -1,0 +1,27 @@
+.About{
+    background: #ffe8d6
+}
+.about-container{
+    display:grid;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 40px;
+    padding: 20px;
+
+}
+.grid{
+    padding-top: 60px;
+}
+
+.About{
+    padding: 50px;
+    padding-top: 100px;
+    
+}
+.About h2{
+    font-size: 35pt;
+}
+.About  h3{
+    padding-top: 50px;
+}

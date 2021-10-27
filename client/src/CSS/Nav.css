@@ -1,0 +1,32 @@
+div{
+    margin: 0;
+}
+.logout, .login{
+    background-color: #47473e;
+    opacity: 0.9;
+    position: fixed;
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    list-style: none;
+    margin-bottom: -5px;
+    font-family:  'Poppins', sans-serif;
+    color: rgb(241, 232, 232);
+    font-weight: bolder;
+    z-index: 1;
+    
+}
+
+.nav li {
+    list-style: none;
+    padding: 30px;
+
+}
+
+.blanc {
+    color: white;
+
+}
+
+

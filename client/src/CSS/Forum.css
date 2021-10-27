@@ -1,0 +1,67 @@
+.form{
+  
+  padding: 50px;
+}
+.post-input input{
+    width: 290px;
+}
+.post-input textarea{
+  width: 300px;
+}
+
+.date-post{
+  float: right;
+}
+.newPost{
+  border: 1px solid;
+  padding: 30px ;
+}
+.post-text p {
+  border: 1px solid;
+  padding: 20px;
+}
+.btn{
+  color: black;
+  background-color: transparent;
+  margin-bottom: 27px;
+}
+.post-name{
+  font-size: 10pt;
+}
+.post-text p{
+  font-size: 19pt;
+}
+.postforum {
+   font-size: 25pt;
+   padding: 30px;
+   font-family: 'Poppins', sans-serif;
+   font-weight: bolder;
+   letter-spacing: 1px;
+   text-align: center;
+}
+.com button{
+  padding: 15px;
+  font-size: 10pt;
+ 
+}
+.auth button{
+  padding: 15px;
+  font-size: 10pt;
+  margin: 5px;
+  float: right;
+
+}
+#blog {
+  font-family: 'Poppins', sans-serif;
+  padding-bottom: 70px;
+  letter-spacing: 2px;
+  text-align: center;
+  padding-top: 30px;
+}
+.blog{
+  padding-bottom: 200px;
+}
+
+.dark{
+  padding: 40px;
+}

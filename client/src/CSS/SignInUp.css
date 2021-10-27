@@ -1,0 +1,29 @@
+.one{
+	margin-top: -45px;
+}
+#logo{
+	padding-top: 70px;
+}
+
+.myButton {
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #3d7eb0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
